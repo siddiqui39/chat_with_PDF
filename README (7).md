@@ -17,10 +17,4 @@ The graphical interface is built with Streamlit, while LangChain handles the int
  5. FAISS – for storing and searching vector embeddings
  6. OpenAI API key
 
-  <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python_logo.svg" alt="Python" width="40" />
-  <img src="https://avatars.githubusercontent.com/u/96312155?s=200&v=4" alt="LangChain" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg" alt="OpenAI" width="40" />
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/PyPDF2_logo.png" alt="PyPDF2" width="40" />
-</p>
+  
